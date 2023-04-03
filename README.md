@@ -1,1 +1,2 @@
 # odin-recipes
+This project displays the foundational development knowledge I've gained thus far by building a basic website using HTML & CSS. The website consists of a main index page with links to a few recipes.
